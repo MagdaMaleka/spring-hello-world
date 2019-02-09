@@ -1,3 +1,4 @@
+/*
 package pl.edu.wszib.springhelloworld.configuration;
 
 import org.springframework.context.annotation.Bean;
@@ -43,4 +44,4 @@ public class MainConfiguration {
         return new Programista(kubek(), komputer(), ekspresDoKawy());
     }
 
-}
+}*/
